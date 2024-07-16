@@ -1,0 +1,24 @@
+{
+  "name": "json-eq",
+  "version": "1.0.0",
+  "description": "The best way to compare values of objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "ts",
+    "json",
+    "equal",
+    "object",
+    "array"
+  ],
+  "author": "manuel westermeier",
+  "license": "ISC",
+  "type": "module",
+  "types": "index.ts",
+  "repository": {
+    "url": "https://github.com/ManuelWestermeier/json-eq.git"
+  }
+}
