@@ -1,6 +1,6 @@
 {
   "name": "json-eq",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The best way to compare values of objects",
   "main": "index.js",
   "scripts": {
